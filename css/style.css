@@ -95,6 +95,7 @@ body{
     border-radius: 20px;
     font-weight: bold;
     transition-duration: 0.5s;
+    font-family: "Montserrat", sans-serif;
 }
 .card-buttons > .follow {
     background-color: #e84118;
