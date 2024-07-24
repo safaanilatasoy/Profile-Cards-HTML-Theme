@@ -22,7 +22,6 @@ body{
 .card{
     background-color: #fff;
     width: 350px;
-    height: 75%;
     border-radius: 30px;
     box-shadow: rgba(176, 175, 175, 0.35) 0px 5px 15px;
 }
@@ -87,6 +86,7 @@ body{
     display: flex;
     align-items: center;
     justify-content: center;
+    padding: 10px;
 }
 .card-buttons > button {
     width: 120px;
